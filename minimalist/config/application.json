@@ -46,7 +46,7 @@
   "home": true,
   "homePosition": "top-left",
   "disableScroll": false,
-  "portalUrl": "https://www.arcgis.com",
+  "portalUrl": "https://lizeidsness-dev.maps.arcgis.com",
   "oauthappid": null,
   "googleAnalytics": false,
   "googleAnalyticsKey": null,
